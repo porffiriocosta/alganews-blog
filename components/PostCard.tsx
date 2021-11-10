@@ -82,6 +82,7 @@ const PublishDate = styled.p`
 const Title = styled.h2`
   text-align: center;
   font-size: 14px;
+  padding: 0 16px;
 `;
 
 const Wrapper = styled.a`
